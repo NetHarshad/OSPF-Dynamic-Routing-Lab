@@ -33,6 +33,9 @@ CCNA OSPF Dynamic Routing Lab using Cisco Packet Tracer. Includes step-by-step c
 
 ## Documentation
 - The complete step-by-step configuration and observations are available in the PDF below:
-[EIGRP Lab Documentation.pdf](https://github.com/user-attachments/files/22714960/EIGRP.Lab.Documentation.pdf)
+[OSPF Lab Documentation.pdf](https://github.com/user-attachments/files/22921057/OSPF.Lab.Documentation.pdf)
 
 ## Topology Image
+
+<img width="1916" height="1008" alt="Image" src="https://github.com/user-attachments/assets/9ab20f46-e8b7-4ea0-bb39-151b3eadf1d0" />
+
